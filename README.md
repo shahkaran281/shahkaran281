@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Karan Manishkumar Shah
 
 🎯 **Software and Web Developer**  
+
 Passionate about building scalable backend systems, intuitive frontends, and end-to-end software solutions that solve real-world problems.
 
 📍 Los Angeles, CA  
