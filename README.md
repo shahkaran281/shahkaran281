@@ -7,7 +7,7 @@ Passionate about building scalable backend systems, intuitive frontends, and end
 📍 Los Angeles, CA  
 📧 shahkaran281@gmail.com  
 📞 +1 (213) 643 9959  
-🔗 [LinkedIn](https://linkedin.com/in/karan—shah/) • [GitHub](https://github.com/shahkaran281) • [🌐 Portfolio](https://animated-portfolio-psi-six.vercel.app/)
+🔗 [LinkedIn](https://www.linkedin.com/in/karan---shah/) • [GitHub](https://github.com/shahkaran281) • [🌐 Portfolio](https://animated-portfolio-psi-six.vercel.app/)
 
 ---
 
