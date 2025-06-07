@@ -15,9 +15,11 @@ Passionate about building scalable backend systems, intuitive frontends, and end
 
 **Software Engineer (A/V)** – *USC Information Technology Services*  
 📆 Jul 2024 – Present  
-- Developed responsive React.js interfaces and containerized services with Docker.  
-- Maintained distributed AV systems across 200+ classrooms and 20+ auditoriums with 99.5% uptime.  
-- Improved system performance by 25% using advanced network diagnostics and optimizations.
+- Built AV control systems with React and distributed backend services, supporting 50,000+ users across 250+ rooms.
+- Developed alert monitoring system for 1,500+ Dante and Q-SYS devices, reducing alert time by 80%.
+- Improved deployment reliability with Docker and ensured latency remained below 5ms by resolving multicast/DHCP issues using Wireshark.
+- Integrated AV platforms with enterprise tools to streamline operations and improve uptime (99.5%).
+- Led device rollout testing and system validation, contributing to consistent performance across large-scale
 
 **Graduate Teaching Assistant (CSCI 544 – NLP)** – *USC Viterbi School of Engineering*  
 📆 Jan 2023 – Dec 2023  
